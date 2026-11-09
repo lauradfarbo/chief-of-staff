@@ -2,6 +2,8 @@
 
 A personal Chief of Staff for busy leaders, built as a Claude plugin. It interviews you once, then runs a daily briefing, handles your tasks, writes in your voice and learns how you work. It does not assume any particular tools. It uses whatever you have connected.
 
+https://github.com/user-attachments/assets/bd7b77db-0746-490a-ab58-1d859088338b
+
 ## Recommended setup
 
 For the richest result, give Claude a record of your career before it interviews you about your day-to-day. Do this once:
