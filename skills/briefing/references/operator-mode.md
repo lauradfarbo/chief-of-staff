@@ -13,11 +13,24 @@ Use the rhythm in `about-me.md` and `preferences.md`. A default pattern, adjusta
 
 On any other day, run only if the user asks.
 
+## What operator mode adds to the core
+
+The core sections (Needs a reply, Today's calendar, Loose ends) always come first. In operator mode, read them through the user's commitments: a loose end is often a promise that is about to become drift, so rank those first and link them to the outcome they serve. Then add the sections below.
+
 ## Shape
 
 ```
 # Briefing
 [Day, date]. [N] open, [N] decision, [N] handled.
+
+## Needs a reply
+[core section]
+
+## Today's calendar
+[core section]
+
+## Loose ends
+[core section]
 
 [Day block, below]
 

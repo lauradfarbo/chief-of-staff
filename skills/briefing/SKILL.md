@@ -33,6 +33,16 @@ Use only what is connected. For each source, collect what the mode needs (see th
 
 **If a source is not connected or fails, say so in one line in that section and continue.** Do not skip silently.
 
+## Core sections (every mode)
+
+Every briefing, in every mode, includes these three sections first. The modes add to them; they never replace them.
+
+1. **Needs a reply.** Email and chat together, one list. Messages since the last briefing that need an answer, come from an always-surface person, or mention an ask, an opportunity or a deadline. Per item: who, where (email or channel), one-line summary, action needed, link.
+2. **Today's calendar.** Today's events (the week on a start-of-week briefing). Per meeting: attendees, likely agenda inferred from the title and context, and what the meeting needs from the user. Detailed prep for chosen meetings belongs to operator mode.
+3. **Loose ends.** Search ~~email and ~~chat for the past 7 days, beyond the current window. Flag: promises the user made and has not kept, introductions they said they would make, follow-ups that went quiet, and external threads waiting on them. Name the person and the thread. Do not repeat anything already shown in Needs a reply or carried over in Drift.
+
+If a source is missing, say so in the relevant section. If a section is empty, say so in one line.
+
 ## Output rules (all modes)
 
 - One line per item: what, owner, date, link. Every item has an owner, a date and a link.

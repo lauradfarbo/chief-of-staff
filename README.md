@@ -25,7 +25,7 @@ Your profile is saved as five plain files you can open and edit.
 | Skill | What it does |
 |---|---|
 | **onboard** | The first-run interview. Builds your profile, picks your briefing mode, and recalibrates every few months. |
-| **briefing** | Your daily brief. *Operator mode* covers what is slipping, what needs your decision, meeting prep and your numbers. *Growth mode* covers inbox, loose ends, signals, an opportunity radar and one thing to do. Run either or both. |
+| **briefing** | Your daily brief. Every briefing starts with the same core: what needs a reply (email and chat), today's calendar, and loose ends. *Operator mode* adds what is slipping, what needs your decision, meeting prep and your numbers. *Growth mode* adds meeting takeaways, signals, an opportunity radar and one thing to do. Run either or both. |
 | **tasks** | Shows what is due and creates tasks only after you confirm project, assignee and date. |
 | **voice** | Drafts and edits in your voice and removes common signs of AI writing. |
 | **skill-spotter** | Notices work you repeat and offers, at most once a week, to build a skill for it with you. |

@@ -4,27 +4,19 @@ For the user who needs to find what to pursue. The briefing answers: what is wor
 
 Use `about-me.md` (outcomes, what I want to be known for, targets, saying no to) to judge relevance in every section.
 
-## Sections, in order
+## What growth mode adds to the core
 
-### 1. Inbox
-Messages since the last briefing that need a reply, come from someone senior or mention an opportunity, project or deadline. Per item: sender, subject, one-line summary, action needed. If none, one line.
+The core sections (Needs a reply, Today's calendar, Loose ends) always come first. In growth mode, read them through the user's targets: flag any message, meeting or thread that could become work, a referral or a partnership, and say why in a few words. Loose ends matter most here, because a quiet follow-up is often a lost opportunity.
 
-### 2. Calendar prep
-Today's events. Per meeting: attendees, likely agenda inferred from title and context, and one question to be ready to ask or answer. If none, one line.
+Then add these sections, in order.
 
-### 3. Chat
-Messages and mentions since the last briefing that need a reply, or mention an opportunity or deadline. Per item: sender, channel, one-line summary, action needed. If none, one line.
-
-### 4. Loose ends
-Search ~~email and ~~chat for the past 7 days. Flag: introductions the user said they would make and has not, follow-ups that have gone quiet, and conversations that could still become work or a referral. Name the person and the thread. Include a link.
-
-### 5. Meetings and notes
+### 1. Meetings and notes
 From ~~meeting notes and ~~docs since the last briefing: decisions made, action items for the user, and anything a contact said that signals a new need, concern or opportunity. Keep to the user's own actions and what the contact said about their own needs. Do not repeat remarks about third parties.
 
-### 6. Signals
+### 2. Signals
 Items from the period (and, if web search is available, cited news) that relate to where the user wants to go. Flag at most one to act on this week, and say why. Cite sources with links and dates. Do not rely on general awareness or memory.
 
-### 7. Opportunity radar
+### 3. Opportunity radar
 Four optional items. Include one only when there is real signal. If there is none for an item, say so in one line. Do not invent and do not pad.
 
 - **A pitch to make:** a company, person or brand to contact this week. Include the opening line of the message.
@@ -34,7 +26,7 @@ Four optional items. Include one only when there is real signal. If there is non
 
 Put full drafts in a doc and link them. Keep the briefing to the opening line only.
 
-### 8. One thing
+### 4. One thing
 A single sentence: the one thing that moves the user closer to their outcomes today. It is the most important thing, not the most urgent. It must draw on more than one section above.
 
 ## Limits
