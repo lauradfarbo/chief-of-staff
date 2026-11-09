@@ -1,0 +1,10 @@
+{
+  "name": "chief-of-staff",
+  "version": "0.1.0",
+  "description": "A personal Chief of Staff for busy leaders. Interviews you once, then runs a daily briefing, handles tasks, writes in your voice, and learns your patterns. Works with whatever tools you have connected.",
+  "author": {
+    "name": "Laura Farbo"
+  },
+  "license": "MIT",
+  "keywords": ["chief-of-staff", "briefing", "executive-assistant", "productivity", "onboarding"]
+}
