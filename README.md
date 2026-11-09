@@ -2,11 +2,21 @@
 
 A personal Chief of Staff for busy leaders, built as a Claude plugin. It interviews you once, then runs a daily briefing, handles your tasks, writes in your voice and learns how you work. It does not assume any particular tools. It uses whatever you have connected.
 
+## Recommended setup
+
+For the richest result, give Claude a record of your career before it interviews you about your day-to-day. Do this once:
+
+1. **Build your career file first.** Install the [career-skills family](https://github.com/lauradfarbo/claude-career-skills), create a Claude Project called something like "Career Builder", and say "Let's build my career file." This takes more than one sitting and produces a structured record of your roles, wins, metrics and voice.
+2. **Add this plugin to the same project.** Chief of Staff finds the career file there and uses it, so it asks far fewer questions and its briefings reflect where you want to go, not just what is in your inbox.
+3. **Say "set me up."**
+
+The career file is recommended, not required. Without it, the interview simply asks more.
+
 ## Get started
 
 1. Install the plugin.
 2. Connect the tools you use (email, calendar, chat, task tracker, CRM, meeting notes, docs, files). None are required.
-3. Say **"set me up"**. Claude interviews you for about 10 minutes, reading what it can from your connected tools first and asking only what it cannot find. It then runs your first briefing in the same session.
+3. Say **"set me up"**. Claude interviews you for about 10 minutes, reading what it can from your career file and connected tools first and asking only what it cannot find. It then runs your first briefing in the same session.
 
 Your profile is saved as five plain files you can open and edit.
 

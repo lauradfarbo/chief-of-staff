@@ -2,6 +2,10 @@
 
 Question bank for the onboard skill. Pick from it. Skip anything the read-first draft already answered. Ask at most two questions per message.
 
+## If a career file exists
+
+A Career Asset File (from the career-foundation skill) answers much of Round 1 and the Voice section. Confirm instead of asking: current focus and target audience (Snapshot), current role (Timeline), voice and brand notes, and words to avoid. Ask only what it leaves out, mainly this quarter's outcomes, always-surface people and how the user works day to day (Rounds 2 and 3).
+
 ## Round 1: Role and outcomes
 
 1. What do you own? One or two sentences on your role and who you work with.
